@@ -4,13 +4,13 @@
 
 **WELCOME TO MY GITHUB, HAVE FUN, REMEMBER THE WORLD IS TEMPORARY, AND MAKE SURE YOU REPENT TODAY.**😄 
 
-**PROGRAMING LANGUAGE**
+# PROGRAMING LANGUAGE
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**THE APPLICATION THAT I USE**
+# THE APPLICATION THAT I USE
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
-**MY CONTRIBUTION**
+# MY CONTRIBUTION
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=slayerx-ekx&theme=neon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
@@ -26,7 +26,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerx-ekx&layout=compact&theme=neon&hide_border=true" />
 
-**CHAT WITH ME**
+# CHAT WITH ME
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/slayerx-ekx)
 
 
