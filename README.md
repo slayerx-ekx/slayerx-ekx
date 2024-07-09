@@ -4,7 +4,7 @@
 
 **WELCOME TO MY GITHUB, HAVE FUN, REMEMBER THE WORLD IS TEMPORARY, AND MAKE SURE YOU REPENT TODAY.**😄 
 
-<a href="https://app.daily.dev/eks_"><img src="https://api.daily.dev/devcards/v2/H70oabe5IFZd9aMdPqf1b.png?type=default&r=9wb" width="356" alt="Eks's Dev Card"/></a>
+<a href="https://app.daily.dev/eks_"><img src="https://api.daily.dev/devcards/v2/H70oabe5IFZd9aMdPqf1b.png?type=wide&r=ut3" width="652" alt="Eks's Dev Card"/></a>
 
 # PROGRAMING LANGUAGE
 
