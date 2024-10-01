@@ -19,13 +19,6 @@
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
-# MY CONTRIBUTION
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=slayerx-ekx&theme=neon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=slayerx-ekx&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayerx-ekx&layout=compact&theme=neon&hide_border=true" />
 
 # CHAT WITH ME
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/slayerx-ekx)
