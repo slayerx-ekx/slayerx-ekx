@@ -1,6 +1,6 @@
 # <h1 align="center"> 👋 Hello, world! I'm ekx </h1>
 
-![slayerx-ekx (3)](https://github.com/slayerx-ekx/slayerx-ekx/assets/155826497/0d90920c-b383-4bd5-8f97-4e194a9a5add)
+
 
 **WELCOME TO MY GITHUB, HAVE FUN, REMEMBER THE WORLD IS TEMPORARY, AND MAKE SURE YOU REPENT TODAY.**😄 
 
