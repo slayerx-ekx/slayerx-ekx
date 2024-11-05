@@ -1,8 +1,8 @@
-# <h1 align="center"> 👋 Hello, world! I'm ekx </h1>
+# <h1 align="center"> 👋 Hello, world! I'm Mohammad Eka Bagus Prasetyo, You can call me EKA 😉</h1>
 
 
 
-**WELCOME TO MY GITHUB, HAVE FUN, REMEMBER THE WORLD IS TEMPORARY, AND MAKE SURE YOU REPENT TODAY.**😄 
+**WELCOME TO MY GITHUB, HAVE FUN, REMEMBER THE WORLD IS TEMPORARY, AND MAKE SURE YOU REPENT TODAY.** 😄 
 
 
 # PROGRAMING LANGUAGE
@@ -15,7 +15,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
